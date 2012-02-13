@@ -24,8 +24,8 @@ admin interface or configuration for this plugin.
 This section describes how to install the plugin and get it working.
 
 1. Download the plugin.
-2. Unzip the strictly-contentcleaner compressed file.
-3. Upload the directory strictly-system-check to the /wp-content/plugins directory on your WordPress blog.
+2. Unzip the strictly-content-cleaner.zip compressed file.
+3. Upload the directory strictly-content-cleaner to the /wp-content/plugins directory on your WordPress blog.
 4. Activate the plugin through the 'Plugins' menu in WordPress.
 5. That's it! Try it out by copying a textual link or a youtube video URL into a post and saving a draft copy of the article. If it works you will see
 a proper link and a video instead of the original text links.
