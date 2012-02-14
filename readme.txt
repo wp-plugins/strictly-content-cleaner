@@ -4,7 +4,7 @@ Donate link: http://www.strictly-software.com/donate
 Plugin Home: http://www.strictly-software.com/plugins/strictly-content-cleaner
 Tags: Content, YouTube, Cleaning, Links, HREF, URL
 Requires at least: 2.0.2
-Tested up to: 3.3.1
+Tested up to: 3.3
 Stable tag: 1.0.0
 
 Strictly Content Cleaner is a very basic plugin that changes text hrefs into proper links and converts youtube links into videos
@@ -12,8 +12,8 @@ Strictly Content Cleaner is a very basic plugin that changes text hrefs into pro
 
 == Description ==
 
-Strictly Content Cleaner is a simple plugin that runs when a post is saved and changes any text links like http://www.strictly-software.com into proper anchor
-tags like <a href="http://www.strictly-software.com">www.strictly-software.com</a> which is useful for people who copy and paste content from the web
+Strictly Content Cleaner is a simple plugin that runs when a post is saved and changes any text links like `http://www.strictly-software.com` into proper anchor
+tags like `<a href="http://www.strictly-software.com">www.strictly-software.com</a> which is useful for people who copy and paste content from the web
 and don't have the time or skills to use the editor properly! I also convert youtube.com links into videos 500px wide by 350px high. There is no
 admin interface or configuration for this plugin.
 
